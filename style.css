@@ -1,0 +1,304 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;1,200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.header{
+    background-color: rgb(245, 245, 245);
+    padding-bottom: 50px;
+}
+
+.second{
+    max-width: 1400px;
+    margin: auto;
+    display: flex;
+    
+}
+
+.navbar{
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.navbar h1{
+    padding:0  650px ;
+    font-size: 38px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+}
+
+
+.navbar h3{
+    padding-left: 610px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: "Raleway", sans-serif;
+    align-items: center;
+    font-weight: 200;
+    font-size: 16px;
+}
+.navbar h3 span{
+    background-color: black;
+    color: white;
+    padding: 2px 6px;
+
+}
+
+
+/* +++++right part+++++++ */
+.right{
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+
+.right img{
+    width:500px;
+    height: 250px;
+  
+    
+}
+ .first1{
+     width: 500px;
+     height: 400px;
+      background-color: white;
+      box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+}
+
+
+
+ .first1 h3{
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding: 10px 15px;
+font-weight: 500;
+} 
+
+.first1 p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding:10px 15px;
+    line-height:1.5;
+}
+
+.first2{
+    width: 500px;
+    margin-top: 50px;
+    height: 400px;
+    background-color: white;
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+}
+.navbox{
+    height: 60px;
+    align-items: center;
+    background-color: rgb(230, 230, 230);
+}
+
+.navbox h3{
+    padding: 18px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+.kantabhau{
+    display:flex;
+    padding-left: 30px;
+    padding-top: 15px;
+    align-items: center;
+}
+.kantabhau img{
+    width: 50px;
+    height: 50px;
+
+}
+.kantabhauu{
+    display:flex;
+    padding-left: 30px;
+    padding-top: 5px;
+    align-items: center;
+}
+.kantabhauu img{
+    width: 50px;
+    height: 50px;
+}
+
+.lalala{
+    padding-left: 15px;
+    /* padding-top: 10px; */
+    align-items: center;
+    padding-bottom: 6px;
+}
+.lalala h3{
+    font-size: 16px;
+    font-family:'Montserrat', sans-serif;
+    font-weight: 700;
+    border: none;
+}
+
+.lalala p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:700;
+    padding-top:10px;
+    font-size: 14px;
+}
+
+hr{
+    margin: 10px 0;
+    color: rgb(199, 199, 199);
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+    
+}
+
+.third{
+    width: 500px;
+    margin-top: 50px;
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%) ;
+    height: 200px;
+    background-color: white;
+}
+.third p{
+    margin-top: 15px;
+    line-height: 2;
+    margin-right: 4px;
+}
+.third span {
+    padding: 0px 4px;
+    margin-left: 5px;
+    margin-top: 15px;
+    background-color: rgb(214, 214, 214);
+    padding-bottom: 2px;
+    font-size: 16px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#sifu{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+}
+/* ++++++++second section+++++++ */
+
+.left{
+    margin-top: 0px;
+   
+}
+
+
+.first{
+     max-width: 850px;
+     margin-top: 50px;
+     height: 550px;
+     box-shadow:0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+     background-color: white;
+
+}
+
+.firstpart{
+    padding-left: 10px;
+    padding-right: 15px;
+}
+
+.first img{
+    width: 100%;
+    height: 270px;
+}
+
+.first h1{
+ font-family:"Raleway", sans-serif;
+ padding-top: 10px;
+ font-size: 25px;
+ font-weight: 500;
+}
+
+.first h3{
+    font-family:"Raleway", sans-serif;
+    font-weight: 200;
+    font-size: 19px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.first h3 span{
+    color: grey;
+}
+
+.first p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight:600;
+    display: block;
+    padding: 15px 0;
+    line-height: 1.5;
+
+} 
+
+.btn1{
+padding:10px 15px;
+background-color: white;
+border: 1px solid black;
+font-size: inherit;
+font-weight: 400;
+cursor: pointer;
+}
+
+.btn{
+     margin-left: 550px;
+     font-size: 16px;
+     padding: 10px 0px;
+     align-items: center;
+     font-weight: 700;
+     background-color: white;
+     border: none;
+     cursor: pointer;
+}
+
+.btn span{
+    background-color: black;
+    color: white;
+    border-radius:10px;
+    padding: 2px 6px;
+}
+
+/* +++++++footer+++++ */
+
+footer{
+    background-color: rgb(121, 121, 121);
+    height: 170px;
+
+}
+
+.button1{
+    padding: 12px 15px;
+    margin-top: 25px;
+    margin-left: 15px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: rgb(97, 97, 97);
+    border: none;
+   
+}
+
+.button2{
+    padding: 12px 15px;
+    margin-top: 25px;
+    margin-left: 2px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: black;
+    border: none;
+   
+}
+
+
+footer h3{
+    color: white;
+    margin-top: 30px;
+    margin-left: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: 16px;
+}
